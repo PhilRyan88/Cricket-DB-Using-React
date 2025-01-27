@@ -4,7 +4,7 @@ import { useState } from "react";
 
 function App() {
   const [input, setInput] = useState("");
-  const [image, setImage] = useState("");
+  const [images, setImages] = useState([]); // Store an array of player images
 
   function getData() {
     console.log(data);
@@ -13,14 +13,10 @@ function App() {
     );
 
     if (team) {
-      // Assuming you want to set the first player's image
-      if (team.players.length > 0) {
-        setImage(team.players[0].url);
-      } else {
-        setImage(""); // No players
-      }
+      const playerImages = team.players.map((player) => player.url);
+      setImages(playerImages);
     } else {
-      setImage(""); // Team not found
+      setImages([]); // Reset if no team is found
     }
   }
 
@@ -34,15 +30,26 @@ function App() {
         onChange={(e) => setInput(e.target.value)}
       />
       <button onClick={getData}>Search</button>
-      {image ? (
-        <img
-          src={image}
-          alt="Player"
-          style={{ display: "block", margin: "20px auto", maxWidth: "100%" }}
-        />
-      ) : (
-        <p style={{ textAlign: "center" }}>No image found</p>
-      )}
+      <div style={{ textAlign: "center", marginTop: "20px" }}>
+        {images.length > 0 ? (
+          images.map((url, index) => (
+            <img
+              key={index}
+              src={url}
+              alt={`Player ${index + 1}`}
+              style={{
+                width: "150px",
+                height: "150px",
+                margin: "10px",
+                borderRadius: "10px",
+                border: "1px solid #ddd",
+              }}
+            />
+          ))
+        ) : (
+          <p>No players found</p>
+        )}
+      </div>
     </>
   );
 }
