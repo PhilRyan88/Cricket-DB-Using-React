@@ -1,0 +1,680 @@
+{
+  "teams": [
+    {
+      "name": "India",
+      "players": [
+        {
+          "name": "Rohit Sharma",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10915-camedia.png",
+          "age": "37",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/9yjZVgX/45.png"
+        },
+        {
+          "name": "Virat Kohli",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10917-camedia.png",
+          "age": "36",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/Qfk5HhG/18.png"
+        },
+
+        {
+          "name": "Jasprit Bumrah",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10982-camedia.png",
+          "age": "30",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/y8cTGvs/93.png"
+        },
+        {
+          "name": "Ravindra Jadeja",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/517-camedia.png",
+          "age": "35",
+          "style": "LHB",
+          "jersey": "https://i.ibb.co/NpjFsxs/8.png"
+        },
+        {
+          "name": "KL Rahul",
+          "role": "Wicketkeeper",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10912-camedia.png",
+          "age": "32",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/DQhvmwL/1.png"
+        },
+        {
+          "name": "Dhruv Jurel",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/2998-camedia.png",
+          "age": "23",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/k1VRcRf/11.png"
+        },
+        {
+          "name": "Ravichandran Ashwin",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10965-camedia.png",
+          "age": "38",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/TbnR5n8/99.png"
+        },
+        {
+          "name": "Mohammed Siraj",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10986-camedia.png",
+          "age": "30",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/cQJLWqT/13.png"
+        },
+        {
+          "name": "Devdutt Padikkal",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/6219-camedia.png",
+          "age": "25",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/XCNqqVG/77.png"
+        },
+        {
+          "name": "Washington Sundar",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10947-camedia.png",
+          "age": "31",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/cQjL41N/33.png"
+        },
+        {
+          "name": "Nitish Kumar Reddy",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/11012-camedia.png",
+          "age": "21",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/D4q966d/64.png"
+        },
+        {
+          "name": "Rishabh Pant",
+          "role": "Wicketkeeper",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/10914-camedia.png",
+          "age": "27",
+          "style": "LHB",
+          "jersey": "https://i.ibb.co/xCLfccn/17.png"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "role": "Bowler",
+          "url": "https://documents.bcci.tv/resizedimageskirti/261_compress.png",
+          "age": "29",
+          "style": "LHB",
+          "jersey": "https://i.ibb.co/g64vzLQ/23.png"
+        },
+        {
+          "name": "Axar Patel",
+          "role": "Bowlerr",
+          "url": "https://documents.bcci.tv/resizedimageskirti/1113_compress.png",
+          "age": "30",
+          "style": "LHB",
+          "jersey": "https://i.ibb.co/0q3KPmV/20.png"
+        },
+        {
+          "name": "Yashasvi Jaiswal",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/2993-camedia.png",
+          "age": "22",
+          "style": "LHB",
+          "jersey": "https://i.ibb.co/jfy1kCK/63.png"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "players": [
+        {
+          "name": "Pat Cummins",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1149-camedia.png",
+          "age": "30",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "David Warner",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1189-camedia.png",
+          "age": "37",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Steve Smith",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1075-camedia.png",
+          "age": "35",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Mitchell Starc",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/724-camedia.png",
+          "age": "34",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Josh Hazlewood",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1185-camedia.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Marnus Labuschagne",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/348-camedia.png",
+          "age": "30",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Alex Carey",
+          "role": "Wicketkeeper-Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/291-camedia.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Travis Head",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/288-camedia.png",
+          "age": "30",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Adam Zampa",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/852-camedia.png",
+          "age": "32",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Marcus Stoinis",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/288/320-camedia.png",
+          "age": "34",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        },
+        {
+          "name": "Glenn Maxwell",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-camedia.png",
+          "age": "35",
+          "style": "",
+          "jersey": "https://i.ibb.co/D1j9qwF/file.png"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "players": [
+        {
+          "name": "Temba Bavuma",
+          "role": "Batter",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/5/5885.jpg",
+          "age": "34",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Quinton de Kock",
+          "role": "Wicketkeeper",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/8/5648.jpg?v=3",
+          "age": "31",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Kagiso Rabada",
+          "role": "Bowler",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/0/6580.jpg?v=3",
+          "age": "29",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Anrich Nortje",
+          "role": "Bowler",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/5/11455.jpg?v=3",
+          "age": "30",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "David Miller",
+          "role": "Batter",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/4/4804.jpg?v=3",
+          "age": "35",
+          "style": "LHB",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Aiden Markram",
+          "role": "All-rounder",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/5/7165.jpg",
+          "age": "29",
+          "style": "RHB",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Keshav Maharaj",
+          "role": "Bowler",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/9/7529.jpg?v=3",
+          "age": "28",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Heinrich Klaasen",
+          "role": "Wicketkeeper-Batter",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/0/7620.jpg?v=3",
+          "age": "33",
+          "style": "RHB",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Reeza Hendricks",
+          "role": "Batter",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/9/7609.jpg?v=3",
+          "age": "35",
+          "style": "RHB",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Marco Jansen",
+          "role": "All-rounder",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/3/12663.jpg?v=3",
+          "age": "24",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Shamsi",
+          "role": "Bowler",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/4/7584.jpg?v=3",
+          "age": "37",
+          "style": "LHB",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        },
+        {
+          "name": "Tristian Stubbs",
+          "role": "All-rounder",
+          "url": "https://images.mykhel.com/webp/images/cricket/players/3/14343.jpg?v=3",
+          "age": "37",
+          "style": "",
+          "jersey": "https://cricket.co.za/wp-content/uploads/2024/04/ODI-Kit-Front-Replica-3-1-1200x1200-1.png"
+        }
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "players": [
+        {
+          "name": "Dasun Shanaka",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/561-camedia.png",
+          "age": "32",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Kusal Perera",
+          "role": "Wicketkeeper-Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/557-camedia.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Dhananjaya de Silva",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/556-camedia.png",
+          "age": "32",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Maheesh Theekshana",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/8171-camedia.png",
+          "age": "24",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Wanindu Hasaranga",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/3164-camedia.png",
+          "age": "26",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Pathum Nissanka",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/4249-camedia.png",
+          "age": "26",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Charith Asalanka",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1832-camedia.png",
+          "age": "27",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Lahiru Kumara",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1354-camedia.png",
+          "age": "27",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Angelo Mathews",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/559-camedia.png",
+          "age": "37",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Matheesha Pathirana",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/4035-camedia.png",
+          "age": "27",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        },
+        {
+          "name": "Dushamantha Chameera",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/595-camedia.png",
+          "age": "32",
+          "style": "",
+          "jersey": "https://i.ibb.co/9wgKNj6/Remove-background-project-2.png"
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "players": [
+        {
+          "name": "Jos Buttler",
+          "role": "Wicketkeeper-Batter",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/509.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Michael Pepper",
+          "role": "All-rounder",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/75470.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Phil Salt",
+          "role": "Batter",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/3511.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Jofra Archer",
+          "role": "Bowler",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/3502.png",
+          "age": "29",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "John Turner",
+          "role": "Bowler",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/75238.png",
+          "age": "34",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Dan Mousley",
+          "role": "All-rounder",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/75135.png",
+          "age": "35",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Jamie Overton",
+          "role": "Batter",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/1300.png",
+          "age": "37",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Reece Topley",
+          "role": "Bowler",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/2839.png",
+          "age": "34",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Liam Livingstone",
+          "role": "All-rounder",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/3644.png",
+          "age": "31",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Adil Rasheed",
+          "role": "Bowler",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/75129.png",
+          "age": "37",
+          "style": "RHB",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        },
+        {
+          "name": "Sam Curran",
+          "role": "All-rounder",
+          "url": "https://resources.ecb.co.uk/player-photos/odi/480x480/2939.png",
+          "age": "26",
+          "style": "",
+          "jersey": "https://i.ibb.co/MMmnhF5/Remove-background-project-1.png"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "players": [
+        {
+          "name": "Kane Williamson",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/160-camedia.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Tom Latham",
+          "role": "Wicketkeeper-Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/331-camedia.png",
+          "age": "32",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Trent Boult",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1164-camedia.png",
+          "age": "35",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Tim Southee",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1175-camedia.png",
+          "age": "35",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Devon Conway",
+          "role": "Batter",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/3692-camedia.png",
+          "age": "32",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Daryl Mitchell",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/2242-camedia.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Matt Henry",
+          "role": "Bowler",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/463-camedia.png",
+          "age": "33",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Glenn Phillips",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1837-camedia.png",
+          "age": "27",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        },
+        {
+          "name": "Jimmy Neesham",
+          "role": "All-rounder",
+          "url": "https://static-files.cricket-australia.pulselive.com/headshots/440/1578-camedia.png",
+          "age": "34",
+          "style": "",
+          "jersey": "https://i.ibb.co/vjd657F/il-1080x-N-2803808899-6ojp-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "name": "West Indies",
+      "players": [
+        {
+          "name": "Shai Hope",
+          "role": "Wicketkeeper Batter",
+          "url": "",
+          "age": "30",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Nicholas Pooran",
+          "role": "Batter",
+          "url": "",
+          "age": "28",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Jason Holder",
+          "role": "All-Rounder",
+          "url": "",
+          "age": "32",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Shimron Hetmyer",
+          "role": "Batter",
+          "url": "",
+          "age": "27",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Rovman Powell",
+          "role": "All-Rounder",
+          "url": "",
+          "age": "31",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Kyle Mayers",
+          "role": "All-Rounder",
+          "url": "",
+          "age": "31",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Alzarri Joseph",
+          "role": "Bowler",
+          "url": "",
+          "age": "27",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Akeal Hosein",
+          "role": "Bowler",
+          "url": "",
+          "age": "31",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Odean Smith",
+          "role": "Bowler",
+          "url": "",
+          "age": "30",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Roston Chase",
+          "role": "All-Rounder",
+          "url": "",
+          "age": "32",
+          "style": "",
+          "jersey": ""
+        },
+        {
+          "name": "Keemo Paul",
+          "role": "Bowler",
+          "url": "",
+          "age": "26",
+          "style": "",
+          "jersey": ""
+        }
+      ]
+    }
+  ]
+}
