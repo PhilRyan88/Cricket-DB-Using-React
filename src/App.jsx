@@ -4,7 +4,7 @@ import { useState } from "react";
 
 function App() {
   const [input, setInput] = useState("");
-  const [images, setImages] = useState([]); // Store an array of player images
+  const [images, setImages] = useState([]);
 
   function getData() {
     console.log(data);
@@ -16,7 +16,7 @@ function App() {
       const playerImages = team.players.map((player) => player.url);
       setImages(playerImages);
     } else {
-      setImages([]); // Reset if no team is found
+      setImages([]);
     }
   }
 
